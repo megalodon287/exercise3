@@ -36,7 +36,7 @@
   <br/>
     <br/>
  
-<a href="homepage.php"><input type="submit" value="REGISTER"></a>
+<a href="homepage.php"><input type="submit" onclick="return check(this.form)" value="REGISTER"></a>
 
 </form>
    
