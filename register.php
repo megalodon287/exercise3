@@ -18,6 +18,7 @@
 
 
 
+ <form action="/action_page.php">
 <i>email address:</i>&nbsp<input type="text" name="Email Address">
 <br/>
 <br/>
@@ -34,6 +35,7 @@
   <br/>
   <br/>
     <br/>
+  </form>
  
 <a href="homepage.php"><input type="submit" value="REGISTER"></a>
 
